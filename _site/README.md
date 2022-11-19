@@ -1,0 +1,1 @@
+Little devlog so i can record my thoughts somewhere
