@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Github devlog for assorted projects by Quantum-Shrapnel
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://quantum-shrapnel.github.io'
 
 github:
   username: quantum-shrapnel             # change to your github username
