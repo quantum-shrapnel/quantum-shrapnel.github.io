@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Quantum Shrapnel
+  url:          https://quantum-shrapnel.github.io/about/
+  email:        unknown
 
 # Build settings
 markdown:       kramdown
