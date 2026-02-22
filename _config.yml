@@ -16,9 +16,7 @@
 title: Quantum Shrapnel
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website of Corrin Thompson
 github_username: quantum-shrapnel
 minimal_mistakes_skin: dark
 search: true
@@ -58,7 +56,7 @@ plugins:
 
 author:
   name   : "Corrin Thompson"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile-photo.png"
   bio: >-
     I'm a programmer based in the United States. I've hacked products as a penetration tester, programmed for passkey authentication products, and am passionate about making the world a better place with the things I make!
   links:
