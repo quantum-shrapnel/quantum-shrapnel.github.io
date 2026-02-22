@@ -1,10 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: false
 ---
 
 ![image](../assets/images/about-photo.png)
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Heyo! I'm Corrin Thompson. I’ve hacked products as a penetration tester, programmed for passkey authentication products, and am passionate about making the world a better place with the things I make! My journey has lead me to site reliability engineering as a way to secure the infrastructure that underpins so much of everyday life.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In my free time I enjoy TTRPGs, mini painting, 3D printing, drawing, and collecting more hobbies than I can reasonably devote time to. Recently I've gotten into aquarium keeping and am now the proud parent of two tanks of dwarf shrimp!
